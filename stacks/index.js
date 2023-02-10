@@ -1,4 +1,4 @@
-import { MyStack } from "./MyStack";
+import { StorageStack } from "./StorageStack";
 import { App } from "@serverless-stack/resources";
 
 /**
